@@ -35,13 +35,7 @@ header .overlay {
   z-index: 1; }
 
 @media (pointer: coarse) and (hover: none) {
-  header {
-    background: url("../img/hacinedaReal_v.jpg") black no-repeat center center scroll; }
-
-  .contacto {
-    background: url("../img/hacinedaReal_v.jpg") black no-repeat center center scroll; }
-
-  header video {
+  .contacto img {
     display: none; } }
 * {
   color: #414141;

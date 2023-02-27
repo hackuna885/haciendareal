@@ -41,17 +41,10 @@ header {
 
 
   @media (pointer: coarse) and (hover: none) {
-    header {
-      background: url('../img/hacinedaReal_v.jpg') black no-repeat center center scroll;
-    }
-
-    .contacto {
-      background: url('../img/hacinedaReal_v.jpg') black no-repeat center center scroll
-    }
-  
-    header video {
+    .contacto img{
       display: none;
     }
+    
   }
 
   *{
